@@ -1,23 +1,36 @@
 [
   {
-    "formatted_address": "Alliance Center Dr NE, Atlanta, GA 30326, United States",
+    "formatted_address": "2001 Woodward Ave, Muscle Shoals, AL 35661, United States",
     "geometry": {
       "location": {
-        "lat": 33.8509948,
-        "lng": -84.3661453
+        "lat": 34.7427058,
+        "lng": -87.66743470000002
       },
       "viewport": {
         "northeast": {
-          "lat": 33.85264327989272,
-          "lng": -84.36493012010729
+          "lat": 34.74405602989271,
+          "lng": -87.66616567010726
         },
         "southwest": {
-          "lat": 33.84994362010728,
-          "lng": -84.36762977989272
+          "lat": 34.74135637010727,
+          "lng": -87.66886532989271
         }
       }
     },
-    "name": "Two Alliance Center",
-    "rating": 5
+    "name": "Arby's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113603352279564744105\">Arby&#39;s</a>"
+        ],
+        "photo_reference": "AUGGfZl5CRJizgF4Y-MN1xT4NWLlfXlR9fbqAJGf-Vaxhv8jmcZvdb1hk5MVTXmpI9CAh0305juRb1OmzqiXwGdlWfAFXubjK02qwXaJ02dsQGvCnTt7ark35_9Q9Rhkqyr9bEUXZp2IkX6rZNiZOdABIFZ6pDUzHf2plGSBZv8eu2kwrexg",
+        "width": 600
+      }
+    ],
+    "rating": 4.2
   }
 ]
