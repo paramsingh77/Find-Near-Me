@@ -1,0 +1,14 @@
+.mapStyle{
+    width: 100%;
+    height: 300px;
+    margin-right: 100px;
+}
+
+.rel{
+    height:300px;
+    width:950px;
+    margin-bottom: 50px;
+    background-color: antiquewhite;
+    position: absolute;
+    border-radius: 10px;
+}
